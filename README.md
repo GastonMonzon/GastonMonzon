@@ -76,6 +76,9 @@
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
         </a>
+        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+          <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" width="40" height="40 />
+        </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
         </a>
